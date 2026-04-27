@@ -295,6 +295,7 @@ C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\scopedcss\projectbu
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\454g53ucct-b9sayid5wm.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\0fnbag6r70-61n19gt1b8.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\hgaceihvr9-xtxxf3hu2r.gz
+<<<<<<< HEAD
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\8d1ya94mk3-bqjiyaj88i.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\3gj2gr1smx-c2jlpeoesf.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\3oytn29blt-erw9l3u2r3.gz
@@ -354,6 +355,8 @@ C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\estifqkq
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\uap7hwozxn-muycvpuwrr.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\wltfheje0e-87fc7y1x7t.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\9b3bscc8el-mlv21k5csn.gz
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\8tjnmookqf-kwerrvpi7q.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\dkanmpjzlj-kwerrvpi7q.gz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.build.json

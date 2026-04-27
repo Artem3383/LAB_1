@@ -17,6 +17,7 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
@@ -257,6 +258,8 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HomeworkManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

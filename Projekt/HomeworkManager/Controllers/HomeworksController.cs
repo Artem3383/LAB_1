@@ -20,10 +20,25 @@ namespace HomeworkManager.Controllers
         }
 
         // GET: Homeworks
+<<<<<<< HEAD
         public async Task<IActionResult> Index()
         {
             return View(await _context.Homework.ToListAsync());
         }
+=======
+       public async Task<IActionResult> Index(string searchString)
+{
+    var homeworks = from h in _context.Homework
+                    select h;
+
+    if (!String.IsNullOrEmpty(searchString))
+    {
+        homeworks = homeworks.Where(s => s.Description!.ToUpper().Contains(searchString.ToUpper()));
+    }
+
+    return View(await homeworks.ToListAsync());
+}
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
 
         // GET: Homeworks/Details/5
         public async Task<IActionResult> Details(int? id)

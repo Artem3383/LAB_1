@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "E8t+vk0tW8vobNAbgy6b+280lfE2egY0cGO1cn/fb+g=",
+=======
+  "Hash": "h9B25d2TLKhiviuAedcmCbuoD0j4FvfUSm1KWvc5OO0=",
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
   "Source": "HomeworkManager",
   "BasePath": "_content/HomeworkManager",
   "Mode": "Default",
@@ -38,6 +42,7 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\0z45jw66sy-ttgo8qnofa.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -206,6 +211,8 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\454g53ucct-b9sayid5wm.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -227,6 +234,7 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\45gdo54bf3-356vix0kms.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -311,6 +319,8 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\8tjnmookqf-kwerrvpi7q.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Computed",
@@ -332,6 +342,7 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeworkManager.styles.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\8vdho6d19g-jd9uben2k1.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -542,6 +553,8 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\dkanmpjzlj-kwerrvpi7q.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Computed",
@@ -563,6 +576,7 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeworkManager.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\dp3kwubzt3-ausgxo2sd3.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -689,6 +703,8 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\hgaceihvr9-xtxxf3hu2r.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -710,6 +726,7 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\compressed\\i90v6lgntu-pk9g2wxc8p.gz",
       "SourceId": "HomeworkManager",
       "SourceType": "Discovered",
@@ -1361,6 +1378,8 @@
       "OriginalItemSpec": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeworkManager.styles.css",
       "SourceId": "HomeworkManager",
       "SourceType": "Computed",
@@ -1464,6 +1483,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+<<<<<<< HEAD
     },
     {
       "Identity": "C:\\Users\\artyo\\Lab1\\Projekt\\HomeworkManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2724,6 +2744,8 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
     }
   ],
   "Endpoints": [
@@ -2752,7 +2774,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -2813,7 +2839,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -2858,7 +2888,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -2913,7 +2947,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -2966,7 +3004,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3003,7 +3045,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3050,7 +3096,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3111,7 +3161,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3156,7 +3210,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3211,7 +3269,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3264,7 +3326,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3301,7 +3367,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3348,7 +3418,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3401,7 +3475,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3438,7 +3516,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3485,7 +3567,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3546,7 +3632,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3591,7 +3681,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3646,7 +3740,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3707,7 +3805,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3752,7 +3854,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3807,7 +3913,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3860,7 +3970,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3897,7 +4011,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 14:07:40 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3944,7 +4062,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -3997,7 +4119,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -4034,7 +4160,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -4081,7 +4211,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -4142,7 +4276,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -4187,7 +4325,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Tue, 21 Apr 2026 13:49:31 GMT"
+=======
+          "Value": "Sun, 26 Apr 2026 15:19:34 GMT"
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
         },
         {
           "Name": "Cache-Control",
@@ -4216,6 +4358,7 @@
           "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
         }
       ]
+<<<<<<< HEAD
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css",
@@ -21880,6 +22023,8 @@
           "Value": "sha256-JKWeHUaANNuffeRatdc54UCb84RoxjEw/nTq8Mops8Y="
         }
       ]
+=======
+>>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
     }
   ]
 }

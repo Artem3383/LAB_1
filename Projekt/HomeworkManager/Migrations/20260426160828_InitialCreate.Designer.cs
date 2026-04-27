@@ -3,6 +3,7 @@ using System;
 using HomeworkManager.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HomeworkManager.Migrations
 {
     [DbContext(typeof(HomeworkContext))]
-    partial class HomeworkContextModelSnapshot : ModelSnapshot
+    [Migration("20260426160828_InitialCreate")]
+    partial class InitialCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.15");
@@ -25,20 +28,14 @@ namespace HomeworkManager.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-<<<<<<< HEAD
-=======
                         .HasMaxLength(300)
->>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("DueDate")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Status")
-<<<<<<< HEAD
-=======
                         .IsRequired()
->>>>>>> 02f7a078a376dfebf0d219b059c446923495b077
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
