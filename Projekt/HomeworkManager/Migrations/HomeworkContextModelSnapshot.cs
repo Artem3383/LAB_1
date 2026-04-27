@@ -25,12 +25,14 @@ namespace HomeworkManager.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
+                        .HasMaxLength(300)
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("DueDate")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Status")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
