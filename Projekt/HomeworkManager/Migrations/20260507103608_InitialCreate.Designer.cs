@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HomeworkManager.Migrations
 {
     [DbContext(typeof(HomeworkContext))]
-    [Migration("20260421140907_InitialCreate")]
+    [Migration("20260507103608_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -28,12 +28,14 @@ namespace HomeworkManager.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
+                        .HasMaxLength(300)
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("DueDate")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Status")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

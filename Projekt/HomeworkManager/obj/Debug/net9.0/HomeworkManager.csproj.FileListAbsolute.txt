@@ -89,7 +89,6 @@ C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Composition.
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Formats.Asn1.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
@@ -97,7 +96,6 @@ C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Resources.Ex
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\af\Humanizer.resources.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\bin\Debug\net9.0\ar\Humanizer.resources.dll
@@ -300,15 +298,14 @@ C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\compressed\dkanmpjz
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets\msbuild.HomeworkManager.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets\msbuild.HomeworkManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets\msbuild.build.HomeworkManager.props
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HomeworkManager.props
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HomeworkManager.props
-C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\Homework.29FCA9FB.Up2Date
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\HomeworkManager.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\refint\HomeworkManager.dll
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\HomeworkManager.pdb
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\HomeworkManager.genruntimeconfig.cache
 C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\ref\HomeworkManager.dll
+C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\artyo\Lab1\Projekt\HomeworkManager\obj\Debug\net9.0\staticwebassets.build.json.cache
